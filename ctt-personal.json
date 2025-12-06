@@ -1,0 +1,154 @@
+{
+  "WPFTweaks": [
+    "WPFTweaksRestorePoint",
+    "WPFTweaksDisableExplorerAutoDiscovery",
+    "WPFTweaksRemoveCopilot",
+    "WPFTweaksDeleteTempFiles",
+    "WPFTweaksRightClickMenu",
+    "WPFTweaksServices",
+    "WPFTweaksDisableWpbtExecution",
+    "WPFTweaksRazerBlock",
+    "WPFTweaksPowershell7",
+    "WPFTweaksStorage",
+    "WPFTweaksActivity",
+    "WPFTweaksDisableipsix",
+    "WPFTweaksEdgeDebloat",
+    "WPFTweaksRecallOff",
+    "WPFTweaksRemoveGallery",
+    "WPFTweaksEndTaskOnTaskbar",
+    "WPFTweaksDebloatAdobe",
+    "WPFTweaksDisableLMS1",
+    "WPFTweaksTele",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksBraveDebloat",
+    "WPFTweaksRemoveHome",
+    "WPFTweaksLoc",
+    "WPFTweaksConsumerFeatures",
+    "WPFTweaksDisableEdge",
+    "WPFTweaksDiskCleanup",
+    "WPFTweaksRemoveOnedrive",
+    "WPFTweaksIPv46",
+    "WPFTweaksBlockAdobeNet",
+    "WPFTweaksDVR",
+    "WPFTweaksWifi",
+    "WPFTweaksDisableBGapps"
+  ],
+  "WPFInstall": [
+    "WPFInstallsignalrgb",
+    "WPFInstallterminal",
+    "WPFInstallvlc",
+    "WPFInstallbulkcrapuninstaller",
+    "WPFInstallsteam",
+    "WPFInstallsharex",
+    "WPFInstallsunshine",
+    "WPFInstallpowertoys",
+    "WPFInstallvscode",
+    "WPFInstalldiscord",
+    "WPFInstall7zip",
+    "WPFInstallbleachbit",
+    "WPFInstallpowershell",
+    "WPFInstallorcaslicer",
+    "WPFInstallfancontrol",
+    "WPFInstallnextclouddesktop",
+    "WPFInstallnotepadplus",
+    "WPFInstallwingetui",
+    "WPFInstallnetbird",
+    "WPFInstallvivaldi",
+    "WPFInstallrustdesk",
+    "WPFInstallwinscp"
+  ],
+  "WPFFeature": [
+    "WPFFeatureEnableLegacyRecovery",
+    "WPFFeatureRegBackup"
+  ],
+  "Install": [
+    {
+      "winget": "WhirlwindFX.SignalRgb",
+      "choco": "na"
+    },
+    {
+      "winget": "Microsoft.WindowsTerminal",
+      "choco": "microsoft-windows-terminal"
+    },
+    {
+      "winget": "VideoLAN.VLC",
+      "choco": "vlc"
+    },
+    {
+      "winget": "Klocman.BulkCrapUninstaller",
+      "choco": "bulk-crap-uninstaller"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "ShareX.ShareX",
+      "choco": "sharex"
+    },
+    {
+      "winget": "LizardByte.Sunshine",
+      "choco": "sunshine"
+    },
+    {
+      "winget": "Microsoft.PowerToys",
+      "choco": "powertoys"
+    },
+    {
+      "winget": "Microsoft.VisualStudioCode",
+      "choco": "vscode"
+    },
+    {
+      "winget": "Discord.Discord",
+      "choco": "discord"
+    },
+    {
+      "winget": "7zip.7zip",
+      "choco": "7zip"
+    },
+    {
+      "winget": "BleachBit.BleachBit",
+      "choco": "bleachbit"
+    },
+    {
+      "winget": "Microsoft.PowerShell",
+      "choco": "powershell-core"
+    },
+    {
+      "winget": "SoftFever.OrcaSlicer",
+      "choco": "orcaslicer"
+    },
+    {
+      "winget": "Rem0o.FanControl",
+      "choco": "na"
+    },
+    {
+      "winget": "Nextcloud.NextcloudDesktop",
+      "choco": "nextcloud-client"
+    },
+    {
+      "winget": "Notepad++.Notepad++",
+      "choco": "notepadplusplus"
+    },
+    {
+      "winget": "MartiCliment.UniGetUI",
+      "choco": "wingetui"
+    },
+    {
+      "winget": "netbird",
+      "choco": "netbird"
+    },
+    {
+      "winget": "Vivaldi.Vivaldi",
+      "choco": "vivaldi"
+    },
+    {
+      "winget": "RustDesk.RustDesk",
+      "choco": "rustdesk.portable"
+    },
+    {
+      "winget": "WinSCP.WinSCP",
+      "choco": "winscp"
+    }
+  ]
+}

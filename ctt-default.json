@@ -1,0 +1,73 @@
+{
+  "WPFTweaks": [
+    "WPFTweaksRestorePoint",
+    "WPFTweaksDisableExplorerAutoDiscovery",
+    "WPFTweaksRemoveCopilot",
+    "WPFTweaksDeleteTempFiles",
+    "WPFTweaksRightClickMenu",
+    "WPFTweaksServices",
+    "WPFTweaksPowershell7",
+    "WPFTweaksStorage",
+    "WPFTweaksActivity",
+    "WPFTweaksRecallOff",
+    "WPFTweaksEndTaskOnTaskbar",
+    "WPFTweaksDisableLMS1",
+    "WPFTweaksTele",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksLoc",
+    "WPFTweaksConsumerFeatures",
+    "WPFTweaksDiskCleanup",
+    "WPFTweaksRemoveOnedrive",
+    "WPFTweaksDVR",
+    "WPFTweaksWifi",
+    "WPFTweaksDisableBGapps"
+  ],
+  "WPFInstall": [
+    "WPFInstallterminal",
+    "WPFInstallpowertoys",
+    "WPFInstall7zip",
+    "WPFInstallpowershell",
+    "WPFInstallnotepadplus",
+    "WPFInstallchrome",
+    "WPFInstallwingetui",
+    "WPFInstallfoxpdfreader"
+  ],
+  "WPFFeature": [
+    "WPFFeatureEnableLegacyRecovery",
+    "WPFFeatureRegBackup"
+  ],
+  "Install": [
+    {
+      "winget": "Microsoft.WindowsTerminal",
+      "choco": "microsoft-windows-terminal"
+    },
+    {
+      "winget": "Microsoft.PowerToys",
+      "choco": "powertoys"
+    },
+    {
+      "winget": "7zip.7zip",
+      "choco": "7zip"
+    },
+    {
+      "winget": "Microsoft.PowerShell",
+      "choco": "powershell-core"
+    },
+    {
+      "winget": "Notepad++.Notepad++",
+      "choco": "notepadplusplus"
+    },
+    {
+      "winget": "Google.Chrome",
+      "choco": "googlechrome"
+    },
+    {
+      "winget": "MartiCliment.UniGetUI",
+      "choco": "wingetui"
+    },
+    {
+      "winget": "Foxit.FoxitReader",
+      "choco": "foxitreader"
+    }
+  ]
+}

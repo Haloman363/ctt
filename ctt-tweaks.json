@@ -1,0 +1,35 @@
+{
+  "WPFInstall": [],
+  "Install": [],
+  "WPFFeature": [
+    "WPFFeatureRegBackup",
+    "WPFFeatureEnableLegacyRecovery"
+  ],
+  "WPFTweaks": [
+    "WPFTweaksRestorePoint",
+    "WPFTweaksDeleteTempFiles",
+    "WPFTweaksDiskCleanup",
+    "WPFTweaksDisableWpbtExecution",
+    "WPFTweaksRightClickMenu",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksStorage",
+    "WPFTweaksWifi",
+    "WPFTweaksPowershell7",
+    "WPFTweaksEdgeDebloat",
+    "WPFTweaksLoc",
+    "WPFTweaksDebloatAdobe",
+    "WPFTweaksDisableBGapps",
+    "WPFTweaksDisableExplorerAutoDiscovery",
+    "WPFTweaksActivity",
+    "WPFTweaksDVR",
+    "WPFTweaksDisableNotifications",
+    "WPFTweaksBraveDebloat",
+    "WPFTweaksDisableLMS1",
+    "WPFTweaksRemoveCopilot",
+    "WPFTweaksEndTaskOnTaskbar",
+    "WPFTweaksTele",
+    "WPFTweaksConsumerFeatures",
+    "WPFTweaksRecallOff",
+    "WPFTweaksServices"
+  ]
+}
