@@ -1,0 +1,13 @@
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Start PowerShell as admin
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 1000
+REM Confirm UAC (ALT+Y works on some systems, otherwise manual intervention needed)
+ALT y
+DELAY 1000
+REM Download and run the script
+STRING iwr https://raw.githubusercontent.com/Haloman363/ctt/refs/heads/main/ps1/cct-tweaks-run.ps1 -OutFile $env:TEMP\cct-default-run.ps1; powershell -ExecutionPolicy Bypass -File $env:TEMP\cct-default-run.ps1
+ENTER
