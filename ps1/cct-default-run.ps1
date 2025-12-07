@@ -5,7 +5,7 @@ if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 }
 
 # Set variables
-$cttJsonUrl = "https://raw.githubusercontent.com/Haloman363/ctt/4ab068f00a27371cb6432639bd9b9831fa42a8b9/ctt-default.json"
+$cttJsonUrl = "https://raw.githubusercontent.com/Haloman363/ctt/refs/heads/main/json/ctt-default.json"
 $cttJsonPath = "$PSScriptRoot\ctt-default.json"
 
 # Download the JSON file
